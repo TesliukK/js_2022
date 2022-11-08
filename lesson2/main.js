@@ -1,7 +1,9 @@
 // - Створити масив, наповнити його 10 елементами будь-якого типу, вивести кожен елемент в консоль
-let arr = [1, 'qwe', 123, 'asd', true, 3.14, 321, false, 987, [11, 22, 33]]
-console.log(arr)
+let arr = []
+arr[0] = 1
+arr[1] = 'qwe'
 
+console.log(arr)
 // - Створити 3 об'єкти які описують книги. Поля об'єкту : title ,pageCount, genre.
 let books1 = {
     title: 'book',
@@ -26,20 +28,20 @@ let book1 = {
     title: 'book',
     pageCount: 150,
     genre: 'fiction',
-    authors: {
-        name: 'dima',
-        age: 35
-    }
+    authors: ['dima',
+
+    ]
 }
 console.log(book1)
 let book2 = {
     title: 'book',
     pageCount: 350,
     genre: 'fiction',
-    authors: {
+    authors: [{
         name: 'anna',
         age: 25
     }
+    ]
 }
 console.log(book2)
 let book3 = {
