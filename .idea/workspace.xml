@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4651290-067c-446c-8d95-c727d7ef6f20" name="Changes" comment="task6">
+    <list default="true" id="c4651290-067c-446c-8d95-c727d7ef6f20" name="Changes" comment="task5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson3/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/main.js" afterDir="false" />
     </list>
@@ -72,7 +72,10 @@
       <workItem from="1667900600256" duration="3174000" />
       <workItem from="1667903876049" duration="4849000" />
       <workItem from="1667916318590" duration="2858000" />
-      <workItem from="1667925420213" duration="636000" />
+      <workItem from="1667925420213" duration="672000" />
+      <workItem from="1667926142025" duration="7000" />
+      <workItem from="1667930535830" duration="7000" />
+      <workItem from="1667931168189" duration="651000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1667472889265</created>
@@ -102,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667920235522</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="task5">
+      <created>1667926089052</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667926089052</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +134,7 @@
     <MESSAGE value="task2" />
     <MESSAGE value="task4" />
     <MESSAGE value="task6" />
-    <option name="LAST_COMMIT_MESSAGE" value="task6" />
+    <MESSAGE value="task5" />
+    <option name="LAST_COMMIT_MESSAGE" value="task5" />
   </component>
 </project>
