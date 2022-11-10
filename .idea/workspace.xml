@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4651290-067c-446c-8d95-c727d7ef6f20" name="Changes" comment="task5">
+    <list default="true" id="c4651290-067c-446c-8d95-c727d7ef6f20" name="Changes" comment="done">
+      <change afterPath="$PROJECT_DIR$/lesson4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +76,8 @@
       <workItem from="1667925420213" duration="672000" />
       <workItem from="1667926142025" duration="7000" />
       <workItem from="1667930535830" duration="7000" />
-      <workItem from="1667931168189" duration="651000" />
+      <workItem from="1667931168189" duration="1068000" />
+      <workItem from="1668070676940" duration="12846000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1667472889265</created>
@@ -112,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667926089052</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="task5">
+      <created>1667932077542</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667932077542</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,11 +139,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="done" />
     <MESSAGE value="task2" />
     <MESSAGE value="task4" />
     <MESSAGE value="task6" />
     <MESSAGE value="task5" />
-    <option name="LAST_COMMIT_MESSAGE" value="task5" />
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
 </project>
