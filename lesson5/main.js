@@ -57,15 +57,25 @@
 // }
 // array(1,11,34,25,'qwe','zxc', true, false)
 // - створити функцію яка приймає масив об'єктів з наступними полями id,name,age , та виводить їх в документ. Для кожного об'єкту окремий блок.
-let user = [
-    {id:1, name: 'max', age: 30,},
-    {id:2, name: 'vasya', age: 29,},
-    {id:3, name: 'olya', age: 31,},
-    {id:4, name: 'anya', age: 20,},
-    {id:5, name: 'tolya', age: 40,},
-    {id:6, name: 'igor', age: 35,},
-    {id:7, name: 'sasha', age: 33,},
-]
+// let users = [
+//     {id: 1, name: 'max', age: 30,},
+//     {id: 2, name: 'vasya', age: 29,},
+//     {id: 3, name: 'olya', age: 31,},
+//     {id: 4, name: 'anya', age: 20,},
+//     {id: 5, name: 'tolya', age: 40,},
+//     {id: 6, name: 'igor', age: 35,},
+//     {id: 7, name: 'sasha', age: 33,}
+// ];
+//
+// function array(arr) {
+//     for (let i = 0; i < arr.length; i++)
+//         document.write(`<div>${arr[i].id} ${arr[i].name} ${arr[i].age}</div>`)
+//
+//
+// }
+// array(users)
 
 // - створити функцію яка повертає найменьше число з масиву
+
+
 // - створити функцію яка приймає масив чисел, сумує значення елементів масиву та повертає його. Приклад [1,2,10]->13
