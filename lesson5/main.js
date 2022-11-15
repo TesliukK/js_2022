@@ -76,8 +76,17 @@
 // array(users)
 
 // - створити функцію яка повертає найменьше число з масиву
-arr=[1,2,3,4,5,6,725324,53,45,23,21,0,34,241,-45]
-function number (num) {
-   console.log(Math.min(...num))}
-number(arr)
+// arr=[1,2,3,4,5,6,725324,53,45,23,21,0,34,241,-45]
+// function number (num) {
+//    console.log(Math.min(...num))}
+// number(arr)
 // - створити функцію яка приймає масив чисел, сумує значення елементів масиву та повертає його. Приклад [1,2,10]->13
+let numb = (array)=> {
+   let i = 0
+   for (let arrayElement of array) {
+      i += arrayElement;
+   }
+   return i;
+}
+let sum = numb([2,34,5,68,8345,2123,58,89,54,24,568,69])
+console.log(sum)
