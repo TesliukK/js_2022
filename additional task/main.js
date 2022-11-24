@@ -1,18 +1,50 @@
 // - створити функцію яка приймає три числа та виводить найменьше. (Без Math.min!)
-function add(a, b, c) {
-    if (a > b && b < c) {
-        console.log(b);
-    }else if (b>a && a<c){
-        console.log(a);
-    }else if (b>c && c<a) {
-        console.log(c);
-    }else {
-        console.log('error');}
-}
-add(1,2,3)
+// function add(a, b, c) {
+//     if (a > b && b < c) {
+//         console.log(b);
+//     }else if (b>a && a<c){
+//         console.log(a);
+//     }else if (b>c && c<a) {
+//         console.log(c);
+//     }else {
+//         console.log('error');}
+// }
+// add(1,2,3)
 // - створити функцію яка приймає три числа та виводить найбільше. (Без Math.max!)
+// function add(a, b, c) {
+//     if (a < b && b > c) {
+//         console.log(b);
+//     }else if (b<a && a>c){
+//         console.log(a);
+//     }else if (b<c && c>a) {
+//         console.log(c);
+//     }else {
+//         console.log('error');}
+// }
+// add(1,2,3)
 // - створити функцію яка повертає найбільше число з масиву
+// const arr = [1,23,564,0,34,11223,245,56,-123];
+// const max =(array)=>{
+//     let max = array[0]
+//     for (const item of array) {
+//         if (item>max){
+//             max=item
+//         }
+//     }
+//     return max
+// }
+// console.log(max(arr));
 // - створити функцію яка приймає масив чисел та повертає середнє арифметичне його значень.
+const arr = [1,2,3];
+function mid(array){
+    let sum = 0
+    for (const item of array) {
+        sum += item
+    }
+    return sum/array.length
+}
+
+console.log(mid(arr));
 // - створити функцію яка приймає будь-яку кількість чисел, повертає найменьше, а виводить найбільше (Math використовувати заборонено);
 // - створити функцію яказаповнює масив рандомними числами
 // (цей код генерує рандомні числа в діапазоні від 0 до 100 - Math.round(Math.random()*100)) та виводить його.
