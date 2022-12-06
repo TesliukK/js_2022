@@ -171,7 +171,7 @@ class Prince {
 let prince = new Prince('Vasya', 30, 36.5)
 for (let i = 0; i < cinderellas.length; i++) {
   if (i.footSize===Prince){
-      console.log )
+      console.log()
 
   }
 
