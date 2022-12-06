@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4651290-067c-446c-8d95-c727d7ef6f20" name="Changes" comment="reduce">
+      <change afterPath="$PROJECT_DIR$/additional task/additional6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional task/additional6/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/additional task/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/additional task/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
@@ -42,6 +46,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/teslu/IdeaProjects/js_2022&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -96,7 +101,26 @@
       <workItem from="1669290336832" duration="3554000" />
       <workItem from="1669301463556" duration="25000" />
       <workItem from="1669302295486" duration="1283000" />
-      <workItem from="1669304166510" duration="2748000" />
+      <workItem from="1669304166510" duration="2759000" />
+      <workItem from="1669308487148" duration="28000" />
+      <workItem from="1669308530845" duration="121000" />
+      <workItem from="1669320512526" duration="32000" />
+      <workItem from="1669325759516" duration="32000" />
+      <workItem from="1669377125776" duration="6000" />
+      <workItem from="1669380253427" duration="4000" />
+      <workItem from="1669408852301" duration="37000" />
+      <workItem from="1669409689874" duration="7000" />
+      <workItem from="1669409912625" duration="4000" />
+      <workItem from="1669410014609" duration="146000" />
+      <workItem from="1669467984857" duration="4000" />
+      <workItem from="1669481824042" duration="1431000" />
+      <workItem from="1669483494776" duration="10000" />
+      <workItem from="1669553840214" duration="317000" />
+      <workItem from="1669571485564" duration="183000" />
+      <workItem from="1669825196296" duration="829000" />
+      <workItem from="1669848821210" duration="13000" />
+      <workItem from="1670316293347" duration="857000" />
+      <workItem from="1670322584254" duration="5193000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1667472889265</created>
@@ -196,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669303581074</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="reduce">
+      <created>1669306967315</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1669306967315</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
