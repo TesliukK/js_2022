@@ -71,20 +71,30 @@ function Car(model, manufacturer, yearOfManufacture, maximumSpeed, engineVolume)
     // this.greeting = function (drive){
     //     return `їдемо зі швидкістю ${maximumSpeed}`
     // }
-    this.greeting = function (info){
-        return `${model}, ${manufacturer},${yearOfManufacture},${maximumSpeed},${engineVolume}`
-    }
+    // this.greeting = function (info){
+    //     return `model ${model}, manufacturer ${manufacturer},yearOfManufacture ${yearOfManufacture},maximumSpeed ${maximumSpeed},engineVolume ${engineVolume}`
+    // }
+
 }
 let cars = new Car('Cherokee','jeep', 2015, 220, '2.4l MultiAir')
 // -- drive () - яка виводить в консоль `їдемо зі швидкістю ${максимальна швидкість} на годину`
 // console.log(cars.greeting());
 // -- info () - яка виводить всю інформацію про автомобіль в форматі `назва поля - значення поля`
-console.log(cars.greeting());
+// console.log(cars.greeting());
 // -- increaseMaxSpeed (newSpeed) - яка підвищує значення максимальної швидкості на значення newSpeed
+// Car.prototype.increaseMaxSpeed = function (newSpeed) {return this.maximumSpeed = this.maximumSpeed+newSpeed}
+// cars.increaseMaxSpeed(100)
+// console.log(cars);
 // -- changeYear (newValue) - змінює рік випуску на значення newValue
+// Car.prototype.changeYear = function (newValue) {return this.yearOfManufacture = newValue}
+// cars.changeYear(2018)
+// console.log(cars);
 // -- addDriver (driver) - приймає об'єкт який "водій" з довільним набором полів, і додає його в поточний об'єкт car
-//
-//
+Car.prototype.addDriver = function (driver) {return driver}
+cars.addDriver = ['Vasya','qwer','qwetrrt@email.com', 380961234567];
+console.log(cars);
+
+
 // - (Те саме, тільки через клас)
 // Створити клас який дозволяє створювати об'єкти car, з властивостями модель, виробник, рік випуску, максимальна швидкість, об'єм двигуна. додати в об'єкт функції:
 // -- drive () - яка виводить в консоль `їдемо зі швидкістю ${максимальна швидкість} на годину`
