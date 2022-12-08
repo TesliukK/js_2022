@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4651290-067c-446c-8d95-c727d7ef6f20" name="Changes" comment="driver">
-      <change afterPath="$PROJECT_DIR$/lesson9/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson9/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson9/style.css" afterDir="false" />
+    <list default="true" id="c4651290-067c-446c-8d95-c727d7ef6f20" name="Changes" comment="simpson">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson8/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson8/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson9/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson9/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson9/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +123,8 @@
       <workItem from="1670332844769" duration="7155000" />
       <workItem from="1670359110787" duration="3000" />
       <workItem from="1670359512283" duration="10000" />
-      <workItem from="1670507896029" duration="7754000" />
+      <workItem from="1670507896029" duration="7949000" />
+      <workItem from="1670525065138" duration="14652000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1667472889265</created>
@@ -259,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670340478464</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="simpson">
+      <created>1670521725686</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1670521725686</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,6 +294,7 @@
     <MESSAGE value="reduce" />
     <MESSAGE value="cars" />
     <MESSAGE value="driver" />
-    <option name="LAST_COMMIT_MESSAGE" value="driver" />
+    <MESSAGE value="simpson" />
+    <option name="LAST_COMMIT_MESSAGE" value="simpson" />
   </component>
 </project>

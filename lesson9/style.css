@@ -1,3 +1,59 @@
-.member {
-    background: darkslategray;
+.cont {
+    width: 100%;
+    height: 100vh;
+    font-family: "Bodoni MT Black";
+    color: black;
+}
+/*First block----------------------------------------------------------*/
+.contOfTitle {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+.titleBlock {
+    width: 90vh;
+    height: 10vh;
+    background: cornflowerblue;
+    text-align: center;
+    border-radius: 20px;
+}
+/*Second block-------------------------------------------------------*/
+.monthDurationBlock {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+/*monthDuration block-----------------------------------------------*/
+.monthDuration {
+    margin-right: 5vh;
+    width: 25vh;
+    height: 20vh;
+    background: grey;
+    border-radius: 20px;
+    text-align: center;
+
+}
+/*hourDuration block-----------------------------------------------------*/
+.hourDuration {
+    width: 60vh;
+    height: 20vh;
+    background: grey;
+    border-radius: 20px;
+    text-align: center;
+
+}
+/*ulBlock----------------------------------------------------------------*/
+.ulContainer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+
+}
+.ulBlock {
+    width: 90vh;
+    background: cornflowerblue   ;
+    border-radius: 20px;
 }
