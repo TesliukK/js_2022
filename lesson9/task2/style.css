@@ -56,4 +56,15 @@
     width: 90vh;
     background: cornflowerblue   ;
     border-radius: 20px;
+    text-align: center;
+}
+.li {
+    width: 80vh;
+    height: 5vh;
+    background: grey;
+    margin: 10px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

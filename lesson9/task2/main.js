@@ -69,6 +69,9 @@ let coursesArray = [
         modules: ['html', 'css', 'js', 'mysql', 'mongodb', 'react', 'angular', 'aws', 'docker', 'git', 'sass']
     }
 ];
+
+
+
 for (const cours of coursesArray) {
 
     //General block--------------------------------------------------------
@@ -127,16 +130,23 @@ let ulBlock = document.createElement('div')
     ulBlock.classList.add('ulBlock')
 
     let ul = document.createElement('ul')
-    for (const coursElem of cours.modules) {
-        let li = document.createElement('li')
-        li.innerText = `${coursElem}`
+    for (let i = 0; i < 3; i++) {
+        let li = document.createElement('div')
+        li.classList.add('li')
+        li.innerText = `${cours.modules[i]}`
         ul.append(li)
     }
+
+    for (let i = 3; i < cours.modules.length; i++) {
+        let li2 = document.createElement('li')
+        li2.innerText = `${cours.modules[i]}`
+        ul.append(li2)
+    }
+
     ulContainer.appendChild(ulBlock)
     ulBlock.appendChild(ul)
     container.append(contOfTitle,monthDurationBlock, ulContainer)
 }
-
 
 
 
