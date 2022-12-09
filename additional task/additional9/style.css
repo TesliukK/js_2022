@@ -1,0 +1,19 @@
+
+.div {
+    border: 2px solid black;
+    margin: 10px;
+    padding-left: 10px;
+    width: 40%;
+}
+
+.divAddress {
+
+    margin-left: 10px;
+}
+.divAddressGeo {
+     margin-left: 10px;
+}
+.divCompany {
+    margin-left: 10px;
+
+}
