@@ -4,16 +4,21 @@
     margin: 10px;
     padding-left: 10px;
     width: 40%;
+    background: antiquewhite;
+    border-radius: 20px;
 }
 
 .divAddress {
 
     margin-left: 10px;
+    color: red;
 }
 .divAddressGeo {
      margin-left: 10px;
+    color: green;
 }
 .divCompany {
     margin-left: 10px;
+    color: darkblue;
 
 }
