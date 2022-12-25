@@ -230,9 +230,11 @@ let usersList = [
         }
     }
 ];
+
 let general = document.createElement('div')
 general.classList.add('general')
 document.body.append(general)
+
 for (const usersListElement of usersList) {
     let div = document.createElement('div')
     div.classList.add('div')

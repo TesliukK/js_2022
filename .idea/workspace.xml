@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="c4651290-067c-446c-8d95-c727d7ef6f20" name="Changes" comment="task2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/additional task/additional6/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/additional task/additional6/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional task/additional9/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/additional task/additional9/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/additional task/additional9/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/additional task/additional9/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional task/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/additional task/function/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional task/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/additional task/function/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +56,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\teslu\IdeaProjects\js_2022\additional task\function" />
       <recent name="C:\Users\teslu\IdeaProjects\js_2022\lesson9\task2" />
     </key>
   </component>
@@ -139,7 +142,15 @@
       <workItem from="1670700129071" duration="602000" />
       <workItem from="1670701454884" duration="3000" />
       <workItem from="1670701655722" duration="12000" />
-      <workItem from="1670760874221" duration="309000" />
+      <workItem from="1670760874221" duration="397000" />
+      <workItem from="1670773288594" duration="2375000" />
+      <workItem from="1670839619204" duration="4000" />
+      <workItem from="1670845090134" duration="4000" />
+      <workItem from="1670853527722" duration="48000" />
+      <workItem from="1670853589934" duration="250000" />
+      <workItem from="1670854090176" duration="1056000" />
+      <workItem from="1670860910247" duration="625000" />
+      <workItem from="1671371021588" duration="50000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1667472889265</created>
@@ -309,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670621924056</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="task2">
+      <created>1670761269417</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1670761269417</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
